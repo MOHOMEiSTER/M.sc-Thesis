@@ -24,3 +24,5 @@ This setup serves as a simplified yet powerful representation of **holdup elemen
 🐍 Python          # For macros and event-driven geometry updates
 💡 Hybrid Systems  # For modeling multi-logic dynamical behavior
 🧱 Object-Oriented # For scalable, modular simulation structure
+
+[Watch the demo video](ani-1.ogv)
